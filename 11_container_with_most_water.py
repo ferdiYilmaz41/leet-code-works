@@ -19,7 +19,7 @@ def maxArea( height):
 
 
 
-        # Bu benim iğrenç algoritmam
+        # Bu benim iğrenç algoritmam// disgusting O(n^2) algorithm.. öğğğğ
         # for index in range(len(height)):
             
         #     for i in range(len(height)):
